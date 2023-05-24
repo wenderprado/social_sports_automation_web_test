@@ -1,0 +1,14 @@
+# Arquivos temporários
+*.pyc
+*.log
+
+# Diretórios de saída
+output/
+log/
+report/
+logs/
+results/
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
