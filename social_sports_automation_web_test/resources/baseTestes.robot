@@ -19,10 +19,11 @@ Iniciar testes
   ${old_timeout} =    Set Browser Timeout    30 seconds
     
   IF  '${execucao}' == 'web'
+    ${old_timeout} =    Set Browser Timeout    30 seconds
+    New Browser    headless=false
       Iniciar gravacao video
       New Page         https://social-sport-lessor.web.app/auth
-      Set Browser Timeout    ${old_timeout}
-      
+            
   END
 
   IF  '${execucao}' == 'mobile'
