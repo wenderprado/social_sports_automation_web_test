@@ -11,3 +11,8 @@ Robot Framework
 
 
 https://wenderprado.github.io/MeuCurriculo/
+
+
+<img loading="lazy" src="https://media.licdn.com/dms/image/D4D03AQGjAQm14zq2iA/profile-displayphoto-shrink_800_800/0/1666038858321?e=1714608000&v=beta&t=ReNUVOji5gtL_X0hlQPYYeoCYYjTkTPxxxSO_ol5mtc" width=115><br><sub>Thiago Cavalheiri</sub>
+
+https://www.linkedin.com/in/thiago-cavalheiri-a8b9a7147/
